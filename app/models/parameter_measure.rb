@@ -1,0 +1,2 @@
+class ParameterMeasure < ApplicationRecord
+end
